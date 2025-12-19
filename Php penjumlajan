@@ -1,0 +1,10 @@
+<?php
+$angka1 = 10;
+$angka2 = 7;
+
+$hasil = $angka1 + $angka2;
+
+echo "Angka 1 = $angka1 <br>";
+echo "Angka 2 = $angka2 <br>";
+echo "Hasil Penjumlahan = $hasil";
+?>
