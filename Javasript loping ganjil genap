@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ganjil Genap</title>
+</head>
+<body>
+
+<h2>Looping Ganjil dan Genap</h2>
+
+<script>
+for (let i = 1; i <= 10; i++) {
+    if (i % 2 === 0) {
+        document.write(i + " = Genap <br>");
+    } else {
+        document.write(i + " = Ganjil <br>");
+    }
+}
+</script>
+
+</body>
+</html>
