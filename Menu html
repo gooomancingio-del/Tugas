@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Menu</title>
+</head>
+<body>
+    <h1>Menu Utama</h1>
+    <ul>
+        <li><a href="kasir.html">Kasir</a></li>
+        <li><a href="registrasi.html">Registrasi</a></li>
+        <li><a href="aritmatika.html">Aritmatika</a></li>
+    </ul>
+</body>
+</html>
