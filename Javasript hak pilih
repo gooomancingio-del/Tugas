@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hak Pilih</title>
+</head>
+<body>
+
+<h2>Cek Hak Pilih</h2>
+
+<script>
+let umur = 16; // ubah umur di sini
+
+if (umur >= 17) {
+    document.write("Umur " + umur + " tahun <br>");
+    document.write("Anda MEMILIKI hak pilih");
+} else {
+    document.write("Umur " + umur + " tahun <br>");
+    document.write("Anda BELUM memiliki hak pilih");
+}
+</script>
+
+</body>
+</html>
